@@ -91,7 +91,6 @@
 				</configuration>
 			</plugin>
 			<!-- For Tomcat -->
-			<!--siddharth gupta-->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
